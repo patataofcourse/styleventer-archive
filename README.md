@@ -1,3 +1,7 @@
+Note: this fork is gonna be used to take some of aleok's code and ideas and turn them into separate things. By me.
+I'm especially excited about 'rpg, ngl.
+Anyway, expect progress like. Once every year or something. ToT + school take a lot of time.
+
 # Styleventer
 This a repository containing the entire codebase for Styleventer, the Discord bot,
 including but not limited to:
