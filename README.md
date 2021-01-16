@@ -1,5 +1,5 @@
-Note: this fork is gonna be used to take some of aleok's code and ideas and turn them into separate things. By me.
-I'm especially excited about 'rpg, ngl.
+Note: this fork is gonna be used to take some of aleok's code and ideas and turn them into separate things. By me. <br>
+I'm especially excited about 'rpg, ngl. <br>
 Anyway, expect progress like. Once every year or something. ToT + school take a lot of time.
 
 # Styleventer
